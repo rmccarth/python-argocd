@@ -1,4 +1,4 @@
-from client import Argo
+from python_argocd import Argo
 
 def test_account_info():
     argo = Argo('https://20.72.171.128', 'admin', 'admin', verify=False)
