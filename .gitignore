@@ -18,3 +18,5 @@ var/
 .installed.cfg
 *.egg
 
+src/tests/__pycache__/**
+src/__pycache__/**
